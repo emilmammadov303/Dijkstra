@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1512651739 source:c:\users\emil mammadov\desktop\maxmintoplam\prolab2\main.c
+	<stdio.h>
+	<conio.h>
+	<process.h>
+	<string.h>
+	<math.h>
+
